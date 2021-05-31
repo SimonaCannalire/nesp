@@ -1,0 +1,16 @@
+body {
+    background-color: floralwhite;
+}
+header {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+h2 {
+    font-weight: lighter;
+    color: teal;
+}
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
